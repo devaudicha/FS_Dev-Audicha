@@ -37,14 +37,22 @@ Instead of commuting individually, students can **share rides** efficiently by m
 <img width="742" height="502" alt="image" src="https://github.com/user-attachments/assets/074850c1-82fa-4924-a9b1-cb91db71721b" />
 
 ---
+## Work Flow Diagram
 
+<img width="371" height="555" alt="image" src="https://github.com/user-attachments/assets/52745539-a67a-4973-8a53-dbc1b3d57174" />
+
+---
 
 ## 🛠 Tech Stack
 - **Frontend:** Next.js, TailwindCSS, React  
 - **Backend:** Node.js, Express.js  
 - **Real-time chat:** Optional Socket.IO (can be mocked)  
 - **Database:** In-memory for MVP / MongoDB for full version  
-- **Hosting (optional):** Vercel (frontend), Render/Heroku (backend)  
+- **Hosting (optional):** Vercel (frontend), Render/Heroku (backend)
+
+---
+## 📊 Visual Diagrams
+<img width="380" height="575" alt="image" src="https://github.com/user-attachments/assets/8d7961ad-97b6-4c7b-99fc-95c0080aaa2a" />
 
 ---
 
