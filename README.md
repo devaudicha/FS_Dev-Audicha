@@ -18,6 +18,8 @@ Instead of commuting individually, students can **share rides** efficiently by m
 - Identifies **overlaps or proximity** in travel paths.  
 - Suggests **possible carpooling matches**.  
 - Each student has a **unique anonymous username** (cannot be duplicated).
+- <img width="741" height="501" alt="image" src="https://github.com/user-attachments/assets/5ffdc00d-f4fb-46c7-9cc9-4f8fb52d1438" />
+
 
   https://github.com/devaudicha/FS_Dev-Audicha/blob/3c5d4cc39264ad07b6097eeeac22c98c13afb526/431eaa8e-57a0-48ab-a52d-426f6adfa622.png
 
