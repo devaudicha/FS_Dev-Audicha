@@ -21,8 +21,6 @@ Instead of commuting individually, students can **share rides** efficiently by m
 - <img width="741" height="501" alt="image" src="https://github.com/user-attachments/assets/5ffdc00d-f4fb-46c7-9cc9-4f8fb52d1438" />
 
 
-  https://github.com/devaudicha/FS_Dev-Audicha/blob/3c5d4cc39264ad07b6097eeeac22c98c13afb526/431eaa8e-57a0-48ab-a52d-426f6adfa622.png
-
 ---
 
 ## ⚡ Features
@@ -33,6 +31,13 @@ Instead of commuting individually, students can **share rides** efficiently by m
 - Lightweight and simple **MVP ready for 90-minute submission**  
 
 ---
+
+## User Flow Diagram
+
+<img width="742" height="502" alt="image" src="https://github.com/user-attachments/assets/074850c1-82fa-4924-a9b1-cb91db71721b" />
+
+---
+
 
 ## 🛠 Tech Stack
 - **Frontend:** Next.js, TailwindCSS, React  
